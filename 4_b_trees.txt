@@ -1,0 +1,52 @@
+1 -
+(S
+  (IVP
+    (IVerb list)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal (N seats))
+        (PP (Preposition on) (NP (Det the) (Nominal (N flight))))))
+    (PP (Preposition to) (NP (Proper-Noun denver)))))
+2 -
+(S
+  (IVP
+    (IVerb list)
+    (NP (Pronoun me))
+    (NP (Det the) (Nominal (N seats)))
+    (PP
+      (Preposition on)
+      (NP
+        (Det the)
+        (Nominal
+          (Nominal (N flight))
+          (PP (Preposition to) (NP (Proper-Noun denver))))))))
+3 -
+(S
+  (IVP
+    (IVerb list)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal
+          (Nominal (N seats))
+          (PP (Preposition on) (NP (Det the) (Nominal (N flight)))))
+        (PP (Preposition to) (NP (Proper-Noun denver)))))))
+4 -
+(S
+  (IVP
+    (IVerb list)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal (N seats))
+        (PP
+          (Preposition on)
+          (NP
+            (Det the)
+            (Nominal
+              (Nominal (N flight))
+              (PP (Preposition to) (NP (Proper-Noun denver))))))))))
