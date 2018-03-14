@@ -1,0 +1,169 @@
+Tree number 1:
+Tree probability 1.2761534830418347e-08
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal
+          (Nominal (Noun meals))
+          (PP
+            (Preposition on)
+            (NP (Det the) (Nominal (Noun flight)))))
+        (PP (Preposition from) (NP (Proper_Noun Phoenix)))))))
+
+
+Tree number 2:
+Tree probability 7.873603043279275e-09
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal (Noun meals))
+        (PP
+          (Preposition on)
+          (NP
+            (NP (Det the) (Nominal (Noun flight)))
+            (PP (Preposition from) (NP (Proper_Noun Phoenix)))))))))
+
+
+Tree number 3:
+Tree probability 1.2761534830418347e-08
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal (Noun meals))
+        (PP
+          (Preposition on)
+          (NP
+            (Det the)
+            (Nominal
+              (Nominal (Noun flight))
+              (PP (Preposition from) (NP (Proper_Noun Phoenix))))))))))
+
+
+Tree number 4:
+Tree probability 4.857850227808722e-09
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (NP
+        (NP (Det the) (Nominal (Noun meals)))
+        (PP (Preposition on) (NP (Det the) (Nominal (Noun flight)))))
+      (PP (Preposition from) (NP (Proper_Noun Phoenix))))))
+
+
+Tree number 5:
+Tree probability 7.873603043279277e-09
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (NP
+        (Det the)
+        (Nominal
+          (Nominal (Noun meals))
+          (PP
+            (Preposition on)
+            (NP (Det the) (Nominal (Noun flight))))))
+      (PP (Preposition from) (NP (Proper_Noun Phoenix))))))
+
+
+Tree number 6:
+Tree probability 4.85785022780872e-09
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (NP (Det the) (Nominal (Noun meals)))
+      (PP
+        (Preposition on)
+        (NP
+          (NP (Det the) (Nominal (Noun flight)))
+          (PP (Preposition from) (NP (Proper_Noun Phoenix))))))))
+
+
+Tree number 7:
+Tree probability 7.873603043279278e-09
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (NP (Det the) (Nominal (Noun meals)))
+      (PP
+        (Preposition on)
+        (NP
+          (Det the)
+          (Nominal
+            (Nominal (Noun flight))
+            (PP (Preposition from) (NP (Proper_Noun Phoenix)))))))))
+
+
+Tree number 8:
+Tree probability 1.3559287821536706e-08
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (NP (Det the) (Nominal (Noun meals)))
+      (PP (Preposition on) (NP (Det the) (Nominal (Noun flight)))))
+    (PP (Preposition from) (NP (Proper_Noun Phoenix)))))
+
+
+Tree number 9:
+Tree probability 2.1976892009803398e-08
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal (Noun meals))
+        (PP (Preposition on) (NP (Det the) (Nominal (Noun flight))))))
+    (PP (Preposition from) (NP (Proper_Noun Phoenix)))))
+
+
+Tree number 10:
+Tree probability 1.355928782153671e-08
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP (Det the) (Nominal (Noun meals)))
+    (PP
+      (Preposition on)
+      (NP
+        (NP (Det the) (Nominal (Noun flight)))
+        (PP (Preposition from) (NP (Proper_Noun Phoenix)))))))
+
+
+Tree number 11:
+Tree probability 2.1976892009803398e-08
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP (Det the) (Nominal (Noun meals)))
+    (PP
+      (Preposition on)
+      (NP
+        (Det the)
+        (Nominal
+          (Nominal (Noun flight))
+          (PP (Preposition from) (NP (Proper_Noun Phoenix))))))))

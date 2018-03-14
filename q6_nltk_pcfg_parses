@@ -1,0 +1,154 @@
+Tree number 1:
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP (Det the) (Nominal (Noun meals)))
+    (PP
+      (Preposition on)
+      (NP
+        (Det the)
+        (Nominal
+          (Nominal (Noun flight))
+          (PP
+            (Preposition from)
+            (NP (Proper_Noun Phoenix)))))))) (p=2.19769e-08)
+Tree number 2:
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal (Noun meals))
+        (PP
+          (Preposition on)
+          (NP (Det the) (Nominal (Noun flight))))))
+    (PP (Preposition from) (NP (Proper_Noun Phoenix))))) (p=2.19769e-08)
+Tree number 3:
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (NP (Det the) (Nominal (Noun meals)))
+      (PP
+        (Preposition on)
+        (NP (Det the) (Nominal (Noun flight)))))
+    (PP (Preposition from) (NP (Proper_Noun Phoenix))))) (p=1.35593e-08)
+Tree number 4:
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP (Det the) (Nominal (Noun meals)))
+    (PP
+      (Preposition on)
+      (NP
+        (NP (Det the) (Nominal (Noun flight)))
+        (PP (Preposition from) (NP (Proper_Noun Phoenix))))))) (p=1.35593e-08)
+Tree number 5:
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal
+          (Nominal (Noun meals))
+          (PP
+            (Preposition on)
+            (NP (Det the) (Nominal (Noun flight)))))
+        (PP (Preposition from) (NP (Proper_Noun Phoenix))))))) (p=1.27615e-08)
+Tree number 6:
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal (Noun meals))
+        (PP
+          (Preposition on)
+          (NP
+            (Det the)
+            (Nominal
+              (Nominal (Noun flight))
+              (PP
+                (Preposition from)
+                (NP (Proper_Noun Phoenix)))))))))) (p=1.27615e-08)
+Tree number 7:
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal (Noun meals))
+        (PP
+          (Preposition on)
+          (NP
+            (NP (Det the) (Nominal (Noun flight)))
+            (PP
+              (Preposition from)
+              (NP (Proper_Noun Phoenix))))))))) (p=7.8736e-09)
+Tree number 8:
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (NP (Det the) (Nominal (Noun meals)))
+      (PP
+        (Preposition on)
+        (NP
+          (Det the)
+          (Nominal
+            (Nominal (Noun flight))
+            (PP
+              (Preposition from)
+              (NP (Proper_Noun Phoenix))))))))) (p=7.8736e-09)
+Tree number 9:
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (NP
+        (Det the)
+        (Nominal
+          (Nominal (Noun meals))
+          (PP
+            (Preposition on)
+            (NP (Det the) (Nominal (Noun flight))))))
+      (PP (Preposition from) (NP (Proper_Noun Phoenix)))))) (p=7.8736e-09)
+Tree number 10:
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (NP
+        (NP (Det the) (Nominal (Noun meals)))
+        (PP
+          (Preposition on)
+          (NP (Det the) (Nominal (Noun flight)))))
+      (PP (Preposition from) (NP (Proper_Noun Phoenix)))))) (p=4.85785e-09)
+Tree number 11:
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (NP (Det the) (Nominal (Noun meals)))
+      (PP
+        (Preposition on)
+        (NP
+          (NP (Det the) (Nominal (Noun flight)))
+          (PP
+            (Preposition from)
+            (NP (Proper_Noun Phoenix)))))))) (p=4.85785e-09)
